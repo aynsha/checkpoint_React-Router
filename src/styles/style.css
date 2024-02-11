@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(0, 0, 3);
+    color: white;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 3%;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    margin: 3%;
+}
+.card {
+    width: 20rem;
+    display: inline-block;
+    margin: 15px;
+    justify-content: center;
+    
+}
+/* FilmForm.css */
+
+.film-form {
+    max-width: 50%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+  }
+  
+  .film-form Form.Label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .film-form input,
+  .film-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+  }
+  
+  .film-form button {
+    background-color: #04428a;
+    color: #fff;
+    padding: 10px 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .film-form button:hover {
+    background-color: #0056b3;
+  }
+  
